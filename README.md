@@ -1,1 +1,1 @@
-# digitalocean-zero-to-hero
+# DigitalOcean - Zero To Hero
